@@ -1,0 +1,26 @@
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-14T15:56:38.473Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-14T15:56:38.489Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-14T15:56:38.512Z"}
+{"level":"error","message":"POST /auth/registro - E11000 duplicate key error collection: curso.usuarios index: email_1 dup key: { email: \"carlos@email.com\" }","timestamp":"2026-06-14T15:57:09.354Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T22:34:44.757Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T22:34:44.777Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-15T22:34:44.793Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T22:39:12.225Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T22:39:12.248Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-15T22:39:12.268Z"}
+{"level":"error","message":"POST /auth/registro - E11000 duplicate key error collection: curso.usuarios index: email_1 dup key: { email: \"caim@email.com\" }","timestamp":"2026-06-15T22:43:13.272Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T22:44:03.356Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T22:44:03.373Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-15T22:44:03.389Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T22:49:41.535Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T22:49:41.562Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-15T22:49:41.583Z"}
+{"level":"info","message":"[EMAIL] E-mail enviado para solange@email.com","timestamp":"2026-06-15T22:49:45.911Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T23:19:50.466Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T23:19:50.481Z"}
+{"level":"error","message":"[MONGO] Falha ao conectar:","timestamp":"2026-06-15T23:19:51.639Z"}
+{"level":"error","message":"POST /auth/registro - Operation `usuarios.insertOne()` buffering timed out after 10000ms","timestamp":"2026-06-15T23:20:42.195Z"}
+{"level":"info","message":"[BOOT] NODE_ENV=%s, PORT=%s, MONGODB_URI=%s","timestamp":"2026-06-15T23:23:24.929Z"}
+{"level":"info","message":"[BOOT] Servidor ouvindo em http://0.0.0.0:3000","timestamp":"2026-06-15T23:23:24.945Z"}
+{"level":"info","message":"[MONGO] Conectado com sucesso.","timestamp":"2026-06-15T23:23:26.006Z"}
+{"level":"info","message":"[EMAIL] E-mail enviado para solange@email.com","timestamp":"2026-06-15T23:23:38.315Z"}
