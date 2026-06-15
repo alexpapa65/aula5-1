@@ -13,8 +13,13 @@ const swaggerOptions = {
     servers: [
       {
         url: "http://localhost:3000",
-        description: "Servidor local"
+        description: "Ambiente de desenvolvimento"
+      },
+      {
+        url: "https://aula5-1.onrender.com",
+        description: "Ambiente de produção"
       }
+
     ],
 
     components: {
